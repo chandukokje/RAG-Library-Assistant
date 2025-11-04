@@ -1,4 +1,4 @@
-# 📚 Book Q&A with FAISS + LangChain + Ollama
+# 📚 Books Q&A with FAISS + LangChain + Ollama
 
 This project demonstrates how to build a **retrieval‑augmented generation (RAG) pipeline** for book metadata using:
 
